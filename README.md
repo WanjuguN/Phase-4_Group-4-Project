@@ -2,9 +2,9 @@
 
 ## List of contributors:
     Name	                           Github
-    1.
+    1. Edwin Mutendwa                  https://github.com/Mutendwa 
     2. 
-    3. Edwin Mutendwa                  https://github.com/Mutendwa 
+    3.                   
     4. 
     5. 
 
