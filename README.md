@@ -19,7 +19,7 @@
 
 This project focuses on leveraging deep learning techniques to predict agricultural weather conditions and crop water requirements in Hyderabad, India. Hyderabad, located in the semi-arid region of Telangana, experiences diverse climatic influences that significantly impact its agriculture, economy, and daily life. The city's weather patterns, including temperature variations, humidity levels, and rainfall, play a crucial role in shaping agricultural productivity and water resource management. Given the challenges posed by climate change, accurately understanding and forecasting these weather patterns are essential for effective planning and management in sectors like agriculture and water resources.
 
-![alt text](India_240-animated-flag-gifs.gif)
+![India_240-animated-flag-gifs](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/e688bec8-7cd9-48d2-abc5-521c36fd805b)
 
 ## Context
 
@@ -98,7 +98,7 @@ The figures represent a correlation matrix for several weather-related variables
 ### Identifying any weather patterns in Hyderabad - Kmeans clustering
 #### K_means clustering
 
-![alt text](image-2.png)
+![image-2](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/57a245e8-a5de-4925-acf4-ddfabff05beb)
 
 The output is a scatter plot showing the results of KMeans clustering applied to a dataset that has been reduced to two principal components using PCA. Each point represents a data sample, plotted according to its values on the first two principal components. The colors indicate the clusters assigned by the KMeans algorithm, with three distinct clusters visible (yellow, purple, and teal). The red 'X' markers represent the centroids of each cluster, which are the central points calculated by the KMeans algorithm. These centroids are used to assign each data point to a cluster based on the shortest Euclidean distance to the centroid. This visualization helps to understand the separation and distribution of the clusters in a two-dimensional space. The clear separation between the colors indicates that the KMeans algorithm has effectively partitioned the data into three clusters.
 
