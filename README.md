@@ -91,7 +91,7 @@ The dataset originates from Hyderabad, India. Notably, all the longitudes and la
 
 ### Correlation Heatmap
 
-![alt text](image-1.png)
+![image-1](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/4b5fae9c-00ef-41d4-8f9e-4b7d39d517b8)
 
 The figures represent a correlation matrix for several weather-related variables. Each value shows the Pearson correlation coefficient between pairs of variables. A value of 1.0 indicates a perfect positive correlation, -1.0 indicates a perfect negative correlation, and 0 indicates no correlation. For instance, MaxT (maximum temperature) has a strong positive correlation with Evap (evaporation) at 0.876, meaning higher temperatures are associated with higher evaporation rates. Conversely, MaxT has a strong negative correlation with RH1 (relative humidity in the morning) at -0.737, indicating that higher temperatures tend to occur with lower morning humidity. MinT (minimum temperature) shows moderate correlations with several variables, like MaxT at 0.537 and FAO56_ET (reference crop evapotranspiration) at 0.505. Rainfall (Rain) has weaker correlations with most variables, with the highest being a moderate positive correlation with RH2 (relative humidity in the afternoon) at 0.356. SSH (bright sunshine hours) negatively correlates with both relative humidity measures and positively with variables like Radiation at 0.744, suggesting that more sunshine is linked with higher radiation levels but lower humidity. Overall, the matrix reveals how different climatic variables are interrelated, highlighting both direct and inverse relationships.
 
