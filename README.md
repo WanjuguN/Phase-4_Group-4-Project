@@ -4,7 +4,7 @@
     Name	                           Github
     1.
     2. 
-    3. Edwin Mutendwa                  https://github.com/Mutendwa
+    3. Edwin Mutendwa                  https://github.com/Mutendwa 
     4. 
     5. 
 
