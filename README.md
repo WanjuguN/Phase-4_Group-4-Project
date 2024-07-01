@@ -3,7 +3,7 @@
 ## List of contributors:
     Name	                           Github
     1. Edwin Mutendwa                  https://github.com/Mutendwa 
-    2. 
+    2. Wachuka R. Kinyanjui            https://github.com/Wachuka123/Advanced-Time-Series-Analysis-for-Weather-Forecasting-in-Hyderabad-s-Semi-Arid-Region.git 
     3.                   
     4. 
     5. 
