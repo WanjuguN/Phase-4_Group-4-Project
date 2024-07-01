@@ -104,7 +104,7 @@ The output is a scatter plot showing the results of KMeans clustering applied to
 
 #### Time Series
 
-![image.png](attachment:fb86607f-66d3-4049-a2b3-f7c6a2aba689.png)
+![image](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/ac7b5430-19b3-4d4e-bdd5-bf66cb805607)
 
 The plot shows a highly variable pattern with occasional spikes indicating periods of heavy rainfall. Notably, there is a significant spike around the year 2000, suggesting an exceptionally high rainfall event. Hyderabad reported significant rainfall in 2000. News reports and historical accounts mention heavy downpours, particularly in August 2000.
 
@@ -113,7 +113,7 @@ The plot shows a highly variable pattern with occasional spikes indicating perio
 
 ### Sarima model for Average Temperature- Machine learning
 
-
+![image](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/04667434-6b61-48d5-8077-c7f164688dfa)
 
 ### Sarima model for Rain- Machine learning
 
