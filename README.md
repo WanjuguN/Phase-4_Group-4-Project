@@ -19,11 +19,12 @@
 
 This project focuses on leveraging deep learning techniques to predict agricultural weather conditions and crop water requirements in Hyderabad, India. Hyderabad, located in the semi-arid region of Telangana, experiences diverse climatic influences that significantly impact its agriculture, economy, and daily life. The city's weather patterns, including temperature variations, humidity levels, and rainfall, play a crucial role in shaping agricultural productivity and water resource management. Given the challenges posed by climate change, accurately understanding and forecasting these weather patterns are essential for effective planning and management in sectors like agriculture and water resources.
 
-![India_240-animated-flag-gifs](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/e688bec8-7cd9-48d2-abc5-521c36fd805b)
-
 ## Context
 
 India, a nation of rich cultural and historical heritage, is characterized by diverse ethnicities, languages, and religions. It has a varied geographical landscape, ranging from the Himalayas in the north to the Deccan plateau in the south. The country experiences a tropical monsoon climate, with distinct wet and dry seasons affecting agriculture significantly. Hyderabad, as a major city in southern India, exemplifies these climatic complexities, making it an ideal study area for predicting and managing agricultural weather conditions using advanced deep learning models.
+
+![India_240-animated-flag-gifs](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/e688bec8-7cd9-48d2-abc5-521c36fd805b)
+
 
 ## Significance:
 Understanding India's climatic diversity and its impact on agriculture is crucial for sustainable development and disaster preparedness. This project aims to contribute to this understanding by developing a predictive model that can aid farmers, policymakers, and researchers in making informed decisions regarding crop management, water resource allocation, and disaster mitigation strategies in Hyderabad and similar regions.
@@ -79,13 +80,12 @@ ICRISAT has been collecting daily weather data in Hyderabad since 1978, resultin
 
 ## Data Cleaning Process
 
-![alt text](image.png)
+![image](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/57572da1-1adb-4f62-9e89-ae4e1c8e6334)
 
 ## Exploratory Data Analysis (EDA)
 
 ### Data Point
 
-![image.png](attachment:fb86607f-66d3-4049-a2b3-f7c6a2aba689.png)
 
 The dataset originates from Hyderabad, India. Notably, all the longitudes and latitudes are identical (17.508409, 78.2723), which suggests the weather data was collected from a single location or observation point within Hyderabad. This is an important factor to consider when analyzing the data, as it might not represent weather conditions across the entire city.
 
@@ -104,8 +104,7 @@ The output is a scatter plot showing the results of KMeans clustering applied to
 
 #### Time Series
 
-![alt text](image-3.png)
-
+![image.png](attachment:fb86607f-66d3-4049-a2b3-f7c6a2aba689.png)
 
 The plot shows a highly variable pattern with occasional spikes indicating periods of heavy rainfall. Notably, there is a significant spike around the year 2000, suggesting an exceptionally high rainfall event. Hyderabad reported significant rainfall in 2000. News reports and historical accounts mention heavy downpours, particularly in August 2000.
 
@@ -114,20 +113,20 @@ The plot shows a highly variable pattern with occasional spikes indicating perio
 
 ### Sarima model for Average Temperature- Machine learning
 
-![alt text](image-6.png)
+
 
 ### Sarima model for Rain- Machine learning
 
-![alt text](image-7.png)
+![image](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/1913cf13-8106-44c0-9ec5-1c55cb2df81f)
 
 ## Deep Learning
 ### Best deep Model for  Average Temperature prediction
 
-![alt text](image-4.png)
+![image](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/f0a64583-91d9-4fbd-8174-3764c0b21577)
 
 ### Best deep Model for  Rain prediction
 
-![alt text](image-5.png)
+![image](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/280f7bd5-ea62-4b85-8c69-0dcaaac5aa22)
 
 ## Exploratory Data Analysis (EDA) Recommendations for Farmers
 ### Temperature Trends
