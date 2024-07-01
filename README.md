@@ -59,11 +59,13 @@ Hypothesis¶
 
 ***Alternative Hypothesis (H11):*** There is a significant relationship between historical time series data, geospatial data, and the accuracy of the deep learning model in predicting future weather conditions.
 
+
 **Objective 2: Analyze trends and patterns in historical weather data to identify significant seasonal and geographical variations.**
 
 ***Null Hypothesis (H02):*** There are no significant seasonal and geographical variations in historical weather data.
 
 ***Alternative Hypothesis (H12):*** There are significant seasonal and geographical variations in historical weather data.
+
 
 **Objective 3: Utilize K-means clustering to classify seasons in Hyderabad.**
 
