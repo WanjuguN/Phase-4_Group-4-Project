@@ -4,7 +4,7 @@
     Name	                           Github
     1. Edwin Mutendwa                  https://github.com/Mutendwa 
     2. Wachuka R. Kinyanjui            https://github.com/Wachuka123/Advanced-Time-Series-Analysis-for-Weather-Forecasting-in-Hyderabad-s-Semi-Arid-Region.git 
-    3.                   
+    3. Steve Abonyo                    https://github.com/abonyosteve          
     4. 
     5. 
 
