@@ -6,7 +6,7 @@
     2. Wachuka R. Kinyanjui            https://github.com/Wachuka123
     3. Steve Abonyo                    https://github.com/abonyosteve          
     4. Christine Ndirangu              https://github.com/WanjuguN/Christine
-    5. 
+    5. James K. Irungu                 https://github.com/KeyMoney22
 
 
 
@@ -17,11 +17,11 @@
 
 ## Overview
 
-This project focuses on leveraging deep learning techniques to predict agricultural weather conditions and crop water requirements in Hyderabad, India. Hyderabad, located in the semi-arid region of Telangana, experiences diverse climatic influences that significantly impact its agriculture, economy, and daily life. The city's weather patterns, including temperature variations, humidity levels, and rainfall, play a crucial role in shaping agricultural productivity and water resource management. Given the challenges posed by climate change, accurately understanding and forecasting these weather patterns are essential for effective planning and management in sectors like agriculture and water resources.
+This project uses deep learning techniques to predict agricultural weather conditions and crop water requirements in Hyderabad, India. Hyderabad, located in the semi-arid region of Telangana, experiences diverse climatic influences that significantly impact its agriculture, economy, and daily life. The city's weather patterns, including temperature variations, humidity levels, and rainfall, are crucial in shaping agricultural productivity and water resource management. Given the challenges posed by climate change, accurately understanding and forecasting these weather patterns are essential for effective planning and management in sectors like agriculture and water resources.
 
 ## Context
 
-India, a nation of rich cultural and historical heritage, is characterized by diverse ethnicities, languages, and religions. It has a varied geographical landscape, ranging from the Himalayas in the north to the Deccan plateau in the south. The country experiences a tropical monsoon climate, with distinct wet and dry seasons affecting agriculture significantly. Hyderabad, as a major city in southern India, exemplifies these climatic complexities, making it an ideal study area for predicting and managing agricultural weather conditions using advanced deep learning models.
+India, a nation of rich cultural and historical heritage, is characterized by diverse ethnicities, languages, and religions. It has a varied geographical landscape, ranging from the Himalayas in the north to the Deccan plateau in the south. The country experiences a tropical monsoon climate, with distinct wet and dry seasons affecting agriculture significantly. Hyderabad, as a major city in southern India, exemplifies these climatic complexities, making it an ideal study area for predicting and managing agricultural weather conditions using advanced deep-learning models.
 
 ![India_240-animated-flag-gifs](https://github.com/WanjuguN/Phase-4_Group-4-Project/assets/151353695/e688bec8-7cd9-48d2-abc5-521c36fd805b)
 
@@ -37,7 +37,7 @@ The research aims to leverage deep learning techniques to develop a robust predi
 
 ## Data Source
 
-The dataset for this research is provided by the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), an esteemed international non-profit organization dedicated to scientific research for development. Established in 1972, ICRISAT is headquartered in Patancheru, Hyderabad, India, and operates several regional centers across Africa, including Bamako (Mali) and Nairobi (Kenya), as well as research stations in Niamey (Niger), Kano (Nigeria), Lilongwe (Malawi), Addis Ababa (Ethiopia), and Bulawayo (Zimbabwe). India, the host country, has granted ICRISAT special status as a UN Organization, providing it with unique immunities and tax privileges.
+The dataset for this research is provided by the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), an esteemed international non-profit organization dedicated to scientific research for development. Established in 1972, ICRISAT is headquartered in Patancheru, Hyderabad, India, and operates several regional centres across Africa, including Bamako (Mali) and Nairobi (Kenya), as well as research stations in Niamey (Niger), Kano (Nigeria), Lilongwe (Malawi), Addis Ababa (Ethiopia), and Bulawayo (Zimbabwe). India, the host country, has granted ICRISAT special status as a UN Organization, providing it with unique immunities and tax privileges.
 
 ICRISAT has been collecting daily weather data in Hyderabad since 1978, resulting in a comprehensive dataset that spans over 40 years. This dataset includes crucial weather parameters such as maximum and minimum temperatures, relative humidity (morning and afternoon), wind speed, rainfall, bright sunshine hours, evaporation, radiation, and reference crop evapotranspiration (FAO56-ET). Additionally, it encompasses geospatial data, including longitude and latitude, enhancing the depth and scope of weather analysis.
 
@@ -76,7 +76,7 @@ Seasonal weather patterns in Hyderabad exhibit significant differences that can 
 
 ## Data Source
 
-The dataset for this research is provided by the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), an esteemed international non-profit organization dedicated to scientific research for development. Established in 1972, ICRISAT is headquartered in Patancheru, Hyderabad, India, and operates several regional centers across Africa, including Bamako (Mali) and Nairobi (Kenya), as well as research stations in Niamey (Niger), Kano (Nigeria), Lilongwe (Malawi), Addis Ababa (Ethiopia), and Bulawayo (Zimbabwe). India, the host country, has granted ICRISAT special status as a UN Organization, providing it with unique immunities and tax privileges.
+The dataset for this research is provided by the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), an esteemed international non-profit organization dedicated to scientific research for development. Established in 1972, ICRISAT is headquartered in Patancheru, Hyderabad, India, and operates several regional centres across Africa, including Bamako (Mali) and Nairobi (Kenya), as well as research stations in Niamey (Niger), Kano (Nigeria), Lilongwe (Malawi), Addis Ababa (Ethiopia), and Bulawayo (Zimbabwe). India, the host country, has granted ICRISAT special status as a UN Organization, providing it with unique immunities and tax privileges.
 
 ICRISAT has been collecting daily weather data in Hyderabad since 1978, resulting in a comprehensive dataset that spans over 40 years. This dataset includes crucial weather parameters such as maximum and minimum temperatures, relative humidity (morning and afternoon), wind speed, rainfall, bright sunshine hours, evaporation, radiation, and reference crop evapotranspiration (FAO56-ET). Additionally, it encompasses geospatial data, including longitude and latitude, enhancing the depth and scope of weather analysis.
 
