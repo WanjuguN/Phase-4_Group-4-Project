@@ -6,7 +6,7 @@
     2. Wachuka R. Kinyanjui            https://github.com/Wachuka123
     3. Steve Abonyo                    https://github.com/abonyosteve          
     4. Christine Ndirangu              https://github.com/WanjuguN/Christine
-    5. 
+    5. James Ki. Irungu                https://github.com/KeyMoney22
 
 
 
