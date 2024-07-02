@@ -5,7 +5,7 @@
     1. Edwin Mutendwa                  https://github.com/Mutendwa 
     2. Wachuka R. Kinyanjui            https://github.com/Wachuka123/Advanced-Time-Series-Analysis-for-Weather-Forecasting-in-Hyderabad-s-Semi-Arid-Region.git 
     3. Steve Abonyo                    https://github.com/abonyosteve          
-    4. 
+    4. Christine Ndirangu              https://github.com/WanjuguN/Christine
     5. 
 
 
